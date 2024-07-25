@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Gabriel Thiego
+-Profissão:Impressor
+-Cidade:Rio de Janeiro
+-O que faz nas horas vaga: Ciclismo
+-Feedback sobre o curso Qualidade de Software: Ótimo, me sinto amparado pelos tutores
+-Feedback sobre a plataforma de estudo da EBAC: ótimo sempre consigo sanar minhas dúvidas
 
 Obrigado!!!
 
