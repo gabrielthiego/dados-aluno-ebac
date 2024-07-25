@@ -5,7 +5,7 @@ Dados do aluno
 -Cidade:Rio de Janeiro
 -O que faz nas horas vaga: Ciclismo
 -Feedback sobre o curso Qualidade de Software: Ótimo, me sinto amparado pelos tutores
--Feedback sobre a plataforma de estudo da EBAC: ótimo sempre consigo sanar minhas dúvidas
+-Feedback sobre a plataforma de estudo da EBAC: ótimo sempre consigo sanar minhas dúvidas.
 
 Obrigado!!!
 
